@@ -37,7 +37,7 @@ python --version
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/guess-the-number.git
+git clone https://github.com/alfianekrhmn/guess-the-number.git
 ```
 
 ### 2. Navigate to the Project Directory
